@@ -35,7 +35,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 _**[Interactive Visualizations on STEM concepts](https://srrweb.cc.lehigh.edu/app/)**_
 
 Website deliverable for a summer-long research project in which I worked on a team of four to develop an interactive python visualization to portray data science concepts in a visual way. 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/data science.jpg?raw=true"/>
 
 ---
 
