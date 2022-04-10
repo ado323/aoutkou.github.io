@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Alex Outkou, and I'm a student at Lehigh University. 
+My name is Alex Outkou, and I'm a student at Lehigh University majoring in Finance and Business Information Systems. 
 
 <!-- Upload your own photo and change the path -->
 
