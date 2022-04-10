@@ -40,15 +40,19 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am a highly motivated first generation college student passionate about exploring the potential of big data. I am eager to solve complex problems, pick up new skills, and collaborate with and learn from those around me as I navigate the complex landscape of the American workforce.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+ * Start-Ups 
+ * Traveling
+ * Cooking 
+ * Sports
+ * Music
+ * Guitar 
+ * Meeting new people and exploring new cultures
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
