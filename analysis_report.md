@@ -1163,7 +1163,7 @@ plot;
 
 
     
-![png](output_36_0.png)
+![png](images/output_36_0.png)
     
 
 
@@ -1177,7 +1177,7 @@ plot;
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -1191,7 +1191,7 @@ plot;
 
 
     
-![png](output_38_0.png)
+![png](images/output_38_0.png)
     
 
 
@@ -1276,7 +1276,7 @@ plot;
 
 
     
-![png](output_42_0.png)
+![png](images/output_42_0.png)
     
 
 
@@ -1363,7 +1363,7 @@ plot;
 
 
     
-![png](output_46_0.png)
+![png](images/output_46_0.png)
     
 
 
@@ -1381,7 +1381,7 @@ plot;
 
 
     
-![png](output_48_0.png)
+![png](images/output_48_0.png)
     
 
 
