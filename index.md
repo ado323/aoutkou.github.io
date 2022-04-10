@@ -12,9 +12,9 @@ My name is Alex Outkou, and I'm a student at Lehigh University majoring in Finan
 
 _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Final analysis report for a project in which I explore whether a firm's exposure to certain risk factors right before the outbreak of the COVID-19 pandemic resulted in better or lower stock market performance during March 2020. 
 
-<img src="images/output_32_0.png?raw=true"/>
+<img src="images/output_42_0.png?raw=true"/>
 
 ---
 
@@ -32,7 +32,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](https://srrweb.cc.lehigh.edu/app/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
