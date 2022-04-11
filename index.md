@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Alex Outkou, and I'm a student at Lehigh University majoring in Finance and Business Information Systems. 
+My name is Alex Outkou, and I'm a student at Lehigh University pursuing a degree in Finance and Business Information Systems within the **[https://business.lehigh.edu/undergraduate](College of Business and Economics)**. 
 
 <!-- Upload your own photo and change the path -->
 
@@ -18,14 +18,6 @@ Final analysis report for a project in which I explore whether a firm's exposure
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -35,6 +27,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 _**[Interactive Visualizations on STEM concepts](https://srrweb.cc.lehigh.edu/app/)**_
 
 Website deliverable for a summer-long research project in which I worked on a team of four to develop an interactive python visualization to portray data science concepts in a visual way. 
+
 <img src="images/data science.jpg?raw=true"/>
 
 ---
