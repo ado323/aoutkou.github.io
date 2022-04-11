@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Alex Outkou, and I'm a student at Lehigh University pursuing a degree in Finance and Business Information Systems within the **[https://business.lehigh.edu/undergraduate](College of Business and Economics)**. 
+My name is Alex Outkou, and I'm a student at Lehigh University pursuing a degree in Finance and Business Information Systems within the **[College of Business and Economics](https://business.lehigh.edu/undergraduate)**. 
 
 <!-- Upload your own photo and change the path -->
 
